@@ -1,4 +1,4 @@
-![alt text](skewt.png)
+![matlab_skewt](https://github.com/johnckealy/matlab-skewT/skewt.png)
 
 # matlab-skewT
 
