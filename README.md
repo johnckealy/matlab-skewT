@@ -1,3 +1,5 @@
+![alt text]('skewt.png')
+
 # matlab-skewT
 
 Matlab code for generating a skewT-logP diagram, which is used to visualize atmospheric vertical profiles of temperature and dew point. 
