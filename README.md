@@ -1,4 +1,4 @@
-<img src="https://github.com/johnckealy/matlab-skewT/blob/master/skewt.png">
+<img src="https://github.com/johnckealy/matlab-skewT/blob/master/skewt.png" width=300>
 
 # matlab-skewT
 
