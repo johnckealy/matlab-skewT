@@ -1,6 +1,8 @@
-<img src="https://github.com/johnckealy/matlab-skewT/blob/master/skewt.png" width=300>
+# Matlab-SkewT
 
-# matlab-skewT
+<img src="https://github.com/johnckealy/matlab-skewT/blob/master/skewt.png" width=350>
+
+
 
 Matlab code for generating a skewT-logP diagram, which is used to visualize atmospheric vertical profiles of temperature and dew point. 
 
